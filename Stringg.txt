@@ -1,0 +1,10 @@
+class Stringg
+{
+
+public static void main(String args[])
+{
+	char[] ch= {'J','a','v','a'};
+	String s = new String;
+	System.out.println(s);
+} 
+}
